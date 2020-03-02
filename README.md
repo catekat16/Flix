@@ -27,7 +27,6 @@ Connected to too many outlets and didn't enter the main storyboard immediately i
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [X] (2pts) User sees an app icon on the home screen and a styled launch screen.
