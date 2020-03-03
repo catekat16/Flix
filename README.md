@@ -16,11 +16,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/P4tMLf9PaD.gif" width=250><br>
+<img src="http://g.recordit.co/GvLTbabh1F.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
-Connected to too many outlets and didn't enter the main storyboard immediately in initial configuration.
+Challenges that I encountered while building the app were connecting to too many outlets and not entering the main storyboard immediately in initial configuration.
 
 ---
 
@@ -42,4 +41,4 @@ Connected to too many outlets and didn't enter the main storyboard immediately i
 <img src="http://g.recordit.co/AJT5LjUM6A.gif" width=250><br>
 
 ### Notes
-Getting the summary of the movie to be written on multiple lines, and sizing the image of the movie thumbnail.
+Some challenges I encountered while building the app included getting the summary of the movie to be written on multiple lines and sizing the image of the movie thumbnail.
